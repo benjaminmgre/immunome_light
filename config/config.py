@@ -1,0 +1,1 @@
+hgnc_filename = 'data/HGNC/HGNC_GeneIdentifiers.txt'
